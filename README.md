@@ -44,9 +44,9 @@ A combinação única entre **experiência em marketing digital** e **especializ
 
 ### 📈 GitHub Stats
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcolamr&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrnascimentodev&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcolamr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnascimentodev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 ### 🌟 Tecnologias
 
@@ -61,9 +61,9 @@ A combinação única entre **experiência em marketing digital** e **especializ
 
 ### 📫 Contato
 
-- 📧 Email: [marcola.mr@gmail.com](mailto:marcola.mr@gmail.com)
-- 💼 LinkedIn: [@marcosnascimento](https://www.linkedin.com/in/marcosnascimento/)
-- 🐙 GitHub: [@marcolamr](https://github.com/marcolamr)
+- 📧 Email: [mrnascimento.dev@gmail.com](mailto:mrnascimento.dev@gmail.com)
+- 💼 LinkedIn: [@marcosnascimento](https://www.linkedin.com/in/marcosnascimento)
+- 🐙 GitHub: [@mrnascimentodev](https://github.com/mrnascimentodev)
 
 ---
   
